@@ -1,3 +1,4 @@
+#!/bin/bash
 set -o xtrace
 
 pvcreate /dev/vdb
